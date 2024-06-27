@@ -1,4 +1,4 @@
-# QuestDB Injection [time series database]:
+# QuestDB Injection (time series database):
 
 #### [Linkedin](https://www.linkedin.com/in/meisam-monsef-8693b347/) - [Telegram ID](https://t.me/meisamrce/) - [Telegram Channel](https://t.me/seccode) - [Email](mailto:meisamrce@gmail.com)
 
