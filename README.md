@@ -1,5 +1,6 @@
 # QuestDB Injection :
-    add by Meisam Monsef [Telegram Channel](t.me/SecCode)
+
+#### [Linkedin](https://www.linkedin.com/in/meisam-monsef-8693b347/) - [Telegram ID](https://t.me/meisamrce/) - [Telegram Channel](https://t.me/seccode) - [Email](mailto:meisamrce@gmail.com)
 
 ## Comments:
 
