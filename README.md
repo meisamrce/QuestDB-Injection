@@ -1,5 +1,5 @@
 # QuestDB Injection :
-    [QuestDB](https://questdb.io "QuestDB") add by Meisam Monsef [Telegram ID](https://t.me/meisamrce "Telegram")
+    add by Meisam Monsef [Telegram Channel](https://t.me/SecCode "Telegram")
 
 ## Comments:
 
