@@ -16,7 +16,7 @@
         1' order by 100--                             #order column position is out of range [max=8]
         1' order by 8--                               #no error 
         1' union SELECT 1--                           #queries have different number of columns
-        1' union SELECT 1,2,3,4,5,6,7,8--             #error queries have different number of columns
+        1' union SELECT 1,2,3,4,5,6,7,8--             #success
         1' union SELECT 1,2,3,4,5,6,7,8--             #error unsupported cast [column=8, from=INT, to=TIMESTAMP]
         1' union SELECT 1,2,3,4,5,6,7,null--          #success
 
